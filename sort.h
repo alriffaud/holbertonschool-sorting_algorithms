@@ -1,10 +1,8 @@
-#ifndef _SHELL_H_
-#define _SHELL_H_
+#ifndef _SORT_H_
+#define _SORT_H_
 
 /* Libraries */
 #include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
 
 /* Structures */
 /**
